@@ -1,0 +1,1 @@
+I used an ERD diagram tool called Lucid Chart to create the ERD, the pdf file is called Pewlett Hackard. All of the schemas are included in one file called schemata and all of the queries are included in one file called queries. 
